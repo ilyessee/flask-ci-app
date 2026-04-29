@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -e
+
+echo "Running ruff..."
+ruff check app
+
+echo "Running tests..."
+pytest
+
+echo "All checks passed. Proceeding with push."

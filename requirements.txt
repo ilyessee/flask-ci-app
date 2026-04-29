@@ -1,0 +1,4 @@
+flask
+ruff
+pytest
+pytest-cov
