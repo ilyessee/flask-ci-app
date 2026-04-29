@@ -70,3 +70,4 @@ flask-ci-app/
 ├── pre-push.hook          # copy to .git/hooks/pre-push
 └── .gitignore
 ```
+# CI demo
